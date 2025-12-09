@@ -50,7 +50,7 @@ addon | version | maintainers | summary
 [mail_send_confirmation](mail_send_confirmation/) | 18.0.1.0.0 |  | Mail Send Confirmation
 [mail_show_follower](mail_show_follower/) | 18.0.1.0.1 | <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> | Show CC document followers in mails.
 [mail_suggested_recipient_unchecked](mail_suggested_recipient_unchecked/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Mail suggested recipient unchecked
-[mail_tracking](mail_tracking/) | 18.0.1.0.5 |  | Email tracking system for all mails sent
+[mail_tracking](mail_tracking/) | 18.0.1.0.6 |  | Email tracking system for all mails sent
 [mail_tracking_mailgun](mail_tracking_mailgun/) | 18.0.1.0.0 |  | Mail tracking and Mailgun webhooks integration
 [mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 18.0.1.0.0 |  | Improve mass mailing email tracking
 
