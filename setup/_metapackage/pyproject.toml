@@ -1,11 +1,12 @@
 [project]
 name = "odoo-addons-oca-mail"
-version = "18.0.20251211.0"
+version = "18.0.20260113.0"
 dependencies = [
     "odoo-addon-base_search_mail_content==18.0.*",
     "odoo-addon-mail_activity_board==18.0.*",
     "odoo-addon-mail_activity_dashboard==18.0.*",
     "odoo-addon-mail_activity_done==18.0.*",
+    "odoo-addon-mail_activity_reminder==18.0.*",
     "odoo-addon-mail_activity_team==18.0.*",
     "odoo-addon-mail_attach_existing_attachment==18.0.*",
     "odoo-addon-mail_attach_existing_attachment_account==18.0.*",
