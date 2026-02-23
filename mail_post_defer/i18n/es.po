@@ -19,7 +19,6 @@ msgstr ""
 #. module: mail_post_defer
 #. odoo-python
 #: code:addons/mail_post_defer/models/mail_thread.py:0
-#, python-format
 msgid "Cannot modify message; notifications were already sent."
 msgstr "No se puede modificar el mensaje; ya se han enviado notificaciones."
 
@@ -29,9 +28,20 @@ msgid "Email Thread"
 msgstr "Hilo de Correo Electrónico"
 
 #. module: mail_post_defer
+#: model:ir.model,name:mail_post_defer.model_mail_compose_message
+msgid "Email composition wizard"
+msgstr ""
+
+#. module: mail_post_defer
 #: model:ir.model,name:mail_post_defer.model_mail_message
 msgid "Message"
 msgstr "Mensaje"
+
+#. module: mail_post_defer
+#. odoo-python
+#: code:addons/mail_post_defer/models/mail_thread.py:0
+msgid "Only messages type comment can have their content updated"
+msgstr ""
 
 #. module: mail_post_defer
 #: model:ir.model,name:mail_post_defer.model_mail_message_schedule

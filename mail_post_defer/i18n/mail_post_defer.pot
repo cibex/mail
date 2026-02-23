@@ -25,6 +25,11 @@ msgid "Email Thread"
 msgstr ""
 
 #. module: mail_post_defer
+#: model:ir.model,name:mail_post_defer.model_mail_compose_message
+msgid "Email composition wizard"
+msgstr ""
+
+#. module: mail_post_defer
 #: model:ir.model,name:mail_post_defer.model_mail_message
 msgid "Message"
 msgstr ""
