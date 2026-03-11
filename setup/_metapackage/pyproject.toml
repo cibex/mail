@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-mail"
-version = "18.0.20260224.0"
+version = "18.0.20260309.0"
 dependencies = [
     "odoo-addon-base_search_mail_content==18.0.*",
     "odoo-addon-mail_activity_board==18.0.*",
@@ -36,6 +36,7 @@ dependencies = [
     "odoo-addon-mail_send_confirmation==18.0.*",
     "odoo-addon-mail_show_follower==18.0.*",
     "odoo-addon-mail_suggested_recipient_unchecked==18.0.*",
+    "odoo-addon-mail_template_substitute==18.0.*",
     "odoo-addon-mail_tracking==18.0.*",
     "odoo-addon-mail_tracking_mailgun==18.0.*",
     "odoo-addon-mail_tracking_mass_mailing==18.0.*",
