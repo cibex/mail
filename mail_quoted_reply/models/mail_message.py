@@ -14,9 +14,9 @@ class MailMessage(models.Model):
 
     def _prep_quoted_reply_body(self):
         if bool(html2plaintext(self.env.user.signature).strip()):
-            signature = f'{self.env.user.signature}<br /><br />'
+            signature = f"{self.env.user.signature}<br /><br />"
         else:
-            signature = ''
+            signature = ""
 
         return """
             <div style="margin: 0px; padding: 0px;">
