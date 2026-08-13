@@ -4,6 +4,7 @@
     "summary": """This module changes the behavior of reply to all.
     All original recipients are now cc recipients.""",
     "version": "18.0.1.0.0",
+    "development_status": "Alpha",
     "category": "Social",
     "website": "https://github.com/OCA/mail",
     "author": "Odoo Community Association (OCA)",
