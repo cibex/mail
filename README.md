@@ -29,7 +29,7 @@ addon | version | maintainers | summary
 [mail_activity_dashboard](mail_activity_dashboard/) | 18.0.1.0.0 |  | Add Activity Dashboards
 [mail_activity_done](mail_activity_done/) | 18.0.1.0.0 |  | Mail Activity Done
 [mail_activity_plan_domain](mail_activity_plan_domain/) | 18.0.1.0.0 |  | Apply domain filters to activity plans and their templates
-[mail_activity_reminder](mail_activity_reminder/) | 18.0.1.0.0 |  | Reminder notifications about planned activities
+[mail_activity_reminder](mail_activity_reminder/) | 18.0.1.0.1 |  | Reminder notifications about planned activities
 [mail_activity_team](mail_activity_team/) | 18.0.1.3.0 |  | Add Teams to Activities
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 18.0.1.0.1 |  | Adding attachment on the object by sending this one
 [mail_attach_existing_attachment_account](mail_attach_existing_attachment_account/) | 18.0.1.0.0 |  | Module to use attach existing attachment for account module
