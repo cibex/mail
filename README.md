@@ -41,7 +41,7 @@ addon | version | maintainers | summary
 [mail_drop_target](mail_drop_target/) | 18.0.1.0.2 |  | Attach emails to Odoo by dragging them from your desktop
 [mail_extra_header](mail_extra_header/) | 18.0.1.0.0 |  | Adds extra headers per mail server to sent mails.
 [mail_force_email_notification](mail_force_email_notification/) | 18.0.1.0.0 |  | Context key to define notifications to be sent by emaildefined by force_notification_by_email context key
-[mail_forward](mail_forward/) | 18.0.1.0.1 | <a href='https://github.com/carlos-lopez-tecnativa'><img src='https://github.com/carlos-lopez-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='carlos-lopez-tecnativa'/></a> | Forward messages from the chatter of any document to other users.
+[mail_forward](mail_forward/) | 18.0.1.0.2 | <a href='https://github.com/carlos-lopez-tecnativa'><img src='https://github.com/carlos-lopez-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='carlos-lopez-tecnativa'/></a> | Forward messages from the chatter of any document to other users.
 [mail_inline_css](mail_inline_css/) | 18.0.1.0.0 |  | Convert style tags in inline style in your mails
 [mail_layout_force](mail_layout_force/) | 18.0.1.0.0 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Force a mail layout on selected email templates
 [mail_layout_preview](mail_layout_preview/) | 18.0.1.0.0 |  | Preview email templates in the browser
